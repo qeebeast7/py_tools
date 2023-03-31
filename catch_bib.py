@@ -1,19 +1,4 @@
-import re
-import os
-import openpyxl
-
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-import selenium
-import time
-
-import re
-import os
-import openpyxl
-
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 import selenium
 import time
